@@ -1,5 +1,6 @@
+![image](https://user-images.githubusercontent.com/96910478/147904731-a1c9fc3c-70c3-496c-9b2e-68a8b095e6d7.png)
+![image](https://user-images.githubusercontent.com/96910478/147904739-71fe0c6d-e177-467e-8214-2f117c044600.png)
 # Circle Unet
-
 ## Introduction
 
 This is an end-to-end neural network based on the typical Unet. The main innovation of the architecture is the 'circle' unit which can repeat skip connection procedure to reserve more local information in high level feature maps. The data of experiment suggests that this idea did work. The code is Pytorch version. There is no other version currently.
