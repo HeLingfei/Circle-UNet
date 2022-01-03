@@ -1,5 +1,5 @@
-![image](https://user-images.githubusercontent.com/96910478/147904731-a1c9fc3c-70c3-496c-9b2e-68a8b095e6d7.png)
-![image](https://user-images.githubusercontent.com/96910478/147904739-71fe0c6d-e177-467e-8214-2f117c044600.png)
+![image](https://user-images.githubusercontent.com/96910478/147904731-a1c9fc3c-70c3-496c-9b2e-68a8b095e6d7.png){:height="50%" width="50%"}
+![image](https://user-images.githubusercontent.com/96910478/147904739-71fe0c6d-e177-467e-8214-2f117c044600.png){:height="50%" width="50%"}
 # Circle Unet
 ## Introduction
 
