@@ -1,5 +1,6 @@
-![image](https://user-images.githubusercontent.com/96910478/147904731-a1c9fc3c-70c3-496c-9b2e-68a8b095e6d7.png){:height="50%" width="50%"}
-![image](https://user-images.githubusercontent.com/96910478/147904739-71fe0c6d-e177-467e-8214-2f117c044600.png){:height="50%" width="50%"}
+<img src="https://user-images.githubusercontent.com/96910478/147904731-a1c9fc3c-70c3-496c-9b2e-68a8b095e6d7.png" style="width:80%;display:inline;" />
+<img src="https://user-images.githubusercontent.com/96910478/147904739-71fe0c6d-e177-467e-8214-2f117c044600.png" style="float:left;height:50%;width:39%;display:inline;" />
+
 # Circle Unet
 ## Introduction
 
@@ -19,12 +20,15 @@ This is an end-to-end neural network based on the typical Unet. The main innovat
 The dataset of experiments is a lower abdominal CT dataset from 'The 7th Teddy Cup Data Mining Challenge' and was performed desensitization and properly filtered. It is available by two approaches as follows.
 
 1. Download the pre-treating data (.npz) , which has been compressed as numpy arrays and divided into training(9/10) and test(1/10) set following random sampling.
+
    [Baidu Netdisk link, code: pj6i](https://pan.baidu.com/s/1IlNjk3YA9OqNpfMIJ206XA)
 
    Note: file need to be saved in './dataset' to make functions read correctly.
 
 2. Download raw data(.zip) which need to refer to './CTDataset' to build your own data class.
+
    [Baidu Netdisk link, code: x6el](https://pan.baidu.com/s/1TOutToh1G2k8aSyknOjX9Q)
+   
    Note: file need to be unzipped and saved in './dataset' to make functions read correctly.
 
 ### Pre-trained Model Download(Optional)
