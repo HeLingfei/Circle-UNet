@@ -63,7 +63,7 @@ from utils.performance import *
 
 circle_u_net = load_pretrained_model('CircleUNet')
 u_net = load_pretrained_model('UNet')
-seg_net = load_pretrained_model('UNet')
+seg_net = load_pretrained_model('SegNet')
 test_dataset = CTDataset('test', positive=True)
 
 m1 = get_all_metrics(circle_u_net, test_dataset)
